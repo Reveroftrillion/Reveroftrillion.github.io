@@ -20,8 +20,3 @@ categories: jekyll update
 - 도큐먼트
 
 ### Document - BSON(Binary JSON) 자료구조
-
-'''python
-# import python-mongo module
-import pymongo
-'''
