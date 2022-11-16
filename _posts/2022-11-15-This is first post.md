@@ -24,3 +24,4 @@ categories: jekyll update
 '''python
 # import python-mongo module
 import pymongo
+'''
