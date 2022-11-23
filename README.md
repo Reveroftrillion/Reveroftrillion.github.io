@@ -24,5 +24,5 @@ Windows
     2. git status를 통해 현재 상태를 확인한다.
     3. git add를 통해 변경한 문서를 추가한다.
     4. git push를 통해 원격 저장소에 반영한다.
-    (5. 바로 추가가 되지 않는 경우, PAT(Personal Access Token)을 생성해 Password를 요구하는 부분에 넣어준다.)
+    5. 바로 추가가 되지 않는 경우, PAT(Personal Access Token)을 생성해 Password를 요구하는 부분에 넣어준다.
 7. reveroftrillion.github.io로 접속해서 index.html의 내용이 등장하는지 확인한다.
