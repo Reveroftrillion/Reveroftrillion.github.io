@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog for getting A plus in Eureka Project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "Reveroftrillion/Reveroftrillion.github.io"
 twitter_username: I DO NOT USE TWITTER!! Twitter is a waste of time. 
 github_username:  Reveroftrillion
 
@@ -33,9 +34,10 @@ plugins:
   - jekyll-feed
 
 comment:
-  provider: "disqus"
-  disqus:
-    shortname: "reveroftrillion"
+  provider: "utterances"
+  utterances:
+    theme : "github-light"
+    issue-term : "pathname"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
