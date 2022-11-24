@@ -20,3 +20,11 @@ categories: jekyll update
 - 도큐먼트
 
 ### Document - BSON(Binary JSON) 자료구조
+
+<script src="https://utteranc.es/client.js"
+        repo="Reveroftrillion/Reveroftrillion.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
