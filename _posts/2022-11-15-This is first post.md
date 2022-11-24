@@ -24,7 +24,7 @@ categories: jekyll update
 <script src="https://utteranc.es/client.js"
         repo="Reveroftrillion/Reveroftrillion.github.io"
         issue-term="pathname"
-        theme="github-light"
+        theme="icy-light"
         crossorigin="anonymous"
         async>
 </script>
