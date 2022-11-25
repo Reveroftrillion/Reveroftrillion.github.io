@@ -51,3 +51,17 @@ Windows
     3. _posts와 _config.yml을 제외하고 테마에 있는 정보로 덮어씌운다.
     4. Local Repository에 commit으로 반영한 후, push로 Remote Repository에도 반영시킨다.
     5. reveroftrillion.github.io로 접속해서 변경점이 반영되었는지 확인한다.
+
+## Fourth Class (4. Customize my blog)
+
+- 댓글 기능을 구현하기 위해, 수업 시간에는 disqus를 사용했으나, 저는 utterances를 사용했습니다.
+1. Github에서 신규 Repository를 생성한다.
+    - Repository의 이름이 고민될 수는 있으나, 간단하게 (블로그 이름)-comment로 지어보자.
+2. utterances.json 파일을 생성한다.
+    - origins에서 기능을 사용할 URL을 적는다.
+    - 이 때, https와 http 두 가지 버전을 적는게 편리하다.
+3. utterances를 설치한다.
+4. 원하는 설정에 맞춰 선택하고 코드를 생성한다.
+    - 저는 theme을 github-light에서 icy-dark로 변경했습니다.
+5. 댓글 구현을 하고 싶은 글에 복사한 코드를 붙여준다.
+6. 3분 정도 지난 후, reveroftrillion.github.io로 접속해서 변경점이 반영되었는지 확인한다.
