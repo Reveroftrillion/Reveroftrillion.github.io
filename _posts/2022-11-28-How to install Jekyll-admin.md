@@ -24,7 +24,7 @@ categories: jekyll update
    <pre>
    <code>
    jekyll serve
-   < /code>
+   </code>
    </pre>
    
    를 실행시킨다.
