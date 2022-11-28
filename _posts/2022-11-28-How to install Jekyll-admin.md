@@ -29,3 +29,11 @@ categories: jekyll update
    
    를 실행시킨다.
 6. <localhost:4000/admin>으로 접속해 관리 화면이 뜨는지 확인한다.
+
+<script src="https://utteranc.es/client.js"
+        repo="Reveroftrillion/Reveroftrillion.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
