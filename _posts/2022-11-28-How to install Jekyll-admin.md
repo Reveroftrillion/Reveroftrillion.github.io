@@ -11,15 +11,21 @@ categories: jekyll update
 2. "gem 'jekyll-admin', group: :jekyll_plugins"를 Gemfile의 가장 마지막에 추가해준다.
 3. cmd창을 실행시킨다.
 4. cmd창에서
+
    <pre>
    <code>
    bundle install
    </code>
-   </pre>을 실행시킨다.
+   </pre>
+   
+   을 실행시킨다.
 5. cmd창에서
+   
    <pre>
    <code>
    jekyll serve
    < /code>
-   </pre>를 실행시킨다.
+   </pre>
+   
+   를 실행시킨다.
 6. <localhost:4000/admin>으로 접속해 관리 화면이 뜨는지 확인한다.
