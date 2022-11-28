@@ -14,7 +14,7 @@ categories: jekyll update
 
 ## How to apply
 
-1. "https://analytics.google.com/analytics/web/provision/?hl=ko&pli=1#/provision"에 접속해서 측정 시작을 눌러준다.
+1. <https://analytics.google.com/analytics/web/provision/?hl=ko&pli=1#/provision>에 접속해서 측정 시작을 눌러준다.
 2. 계정 설정, 속성 설정, 비즈니스 정보를 차례대로 입력해준다.
 3. 개정 생성을 완료한 후, 3가지 옵션 중 웹을 선택해준다.
 4. 웹사이트 URL과 스트림 이름을 입력한 후 스트림을 만들어준다.
