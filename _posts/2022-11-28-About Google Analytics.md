@@ -24,7 +24,6 @@ categories: jekyll update
    
    <pre>
    <code>
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=측정 ID"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
