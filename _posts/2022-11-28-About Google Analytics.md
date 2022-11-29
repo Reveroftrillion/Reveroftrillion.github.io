@@ -24,13 +24,14 @@ categories: jekyll update
    
    <pre>
    <code>
-<script async src="https://www.googletagmanager.com/gtag/js?id=측정 ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '측정 ID');
-</script>
+   <script async src="https://www.googletagmanager.com/gtag/js?id=측정 ID">
+   </script>
+ <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '측정 ID');
+ </script>
    </code>
    </pre>
 
