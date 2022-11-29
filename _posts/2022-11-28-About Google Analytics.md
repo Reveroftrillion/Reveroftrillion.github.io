@@ -20,6 +20,23 @@ categories: jekyll update
 4. 웹사이트 URL과 스트림 이름을 입력한 후 스트림을 만들어준다.
 5. 측정 ID를 복사한 후, "_config.yml" 파일에 들어가 측정 ID를 입력해준다.
 6. 애널리스틱 대시보드에서 카운팅 되는 것을 확인해준 후 마무리를 해준다.
+7. 만약 5번까지 실행했음에도 카운팅이 되지 않는다면, 
+   
+   </pre>
+   </code>
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1TGHEESX5"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', '측정 ID');
+   </script>
+   </code>
+   </pre>
+
+   위 코드를 구글 애널리틱스 홈페이지에서 복사한 후, "_includes/head.html" 파일 가장 마지막에 붙여주자.
 
 <script src="https://utteranc.es/client.js"
         repo="Reveroftrillion/Reveroftrillion.github.io"
