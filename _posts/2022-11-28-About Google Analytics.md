@@ -22,8 +22,8 @@ categories: jekyll update
 6. 애널리스틱 대시보드에서 카운팅 되는 것을 확인해준 후 마무리를 해준다.
 7. 만약 5번까지 실행했음에도 카운팅이 되지 않는다면, 
    
-   </pre>
-   </code>
+   <pre>
+   <code>
    <!-- Google tag (gtag.js) -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1TGHEESX5"></script>
    <script>
